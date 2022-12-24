@@ -1,0 +1,37 @@
+Team member 1: Ian Robinson
+Team member 2: Thanh Tran
+
+Code style:
+
+We agree to keep the curly braces like so:
+public class example {
+
+}
+
+We agree to write increment notation like so:
+
+variable++
+
+We agree to intialize every variable to 0
+
+Working agreement:
+
+We agree to leave comment every function and
+comment throughout our code implementation
+
+We agree to attend every lab session
+
+We will both take turns making changes to the
+files and pushing them to the remote repository
+
+We will both use Visual Studio Code to complete
+our work
+
+We agree to switch working between each other often
+
+We agree to communicate through text messaging as 
+quickly as we can
+
+We agree to not search for any specific solutions 
+made for the lab problems
+
